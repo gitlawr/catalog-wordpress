@@ -3,7 +3,7 @@ catalog:
   name: "Wordpress"
   version: "v0.2-bitnami-9"
   description: "Blog tool, publishing platform and CMS based on bitnami images"
-  uuid: Wordpress-9
+  uuid: Wordpress
   minimum_rancher_version: v0.51.0
   questions:    
     - variable: public_port
