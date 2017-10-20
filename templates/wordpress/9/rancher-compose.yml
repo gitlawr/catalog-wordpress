@@ -1,9 +1,9 @@
 version: '2'
 catalog:
   name: "Wordpress"
-  version: "v0.2-bitnami"
+  version: "v0.2-bitnami-9"
   description: "Blog tool, publishing platform and CMS based on bitnami images"
-  uuid: Wordpress-1
+  uuid: Wordpress-9
   minimum_rancher_version: v0.51.0
   questions:    
     - variable: public_port
