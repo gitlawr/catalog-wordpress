@@ -1,6 +1,7 @@
 version: '2'
 catalog:
   name: "Wordpress"
+  version: "v0.8-bitnami"
   description: "Blog tool, publishing platform and CMS based on bitnami images"
   uuid: Wordpress-8
   minimum_rancher_version: v0.51.0
